@@ -75389,6 +75389,7 @@
 㘴	rog
 𠱊	rog
 𡉡	rog
+𡉡	iog
 𡋏	rog
 𡏔	rog
 𪠶	rog
