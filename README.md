@@ -25,3 +25,5 @@
 - [x] 苏州码子
 - [x] 卦象
 - [x] 箭头
+
+另外，您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
