@@ -111089,7 +111089,7 @@
 𨞦	xyora
 𨔃	xyorv
 㫮	xypa
-𪊒	xypb
+𪊒	xipb
 𬅿	xypbm
 𪊣	xypbu
 迆	xypd
@@ -114532,7 +114532,7 @@
 𣆟	ypam
 𪊚	ypau
 𦙼	ypb
-𪊒	ypb
+𪊒	ipb
 𩨱	ypbbb
 𮓣	ypbjs
 虘	ypbm
