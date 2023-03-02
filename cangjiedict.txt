@@ -43115,6 +43115,8 @@
 𡯃	kp
 𤵂	kp
 𢌬	kp
+𢌬	tv
+𢌬	cm
 㚛	kpa
 𤶇	kpa
 瘨	kpbc
