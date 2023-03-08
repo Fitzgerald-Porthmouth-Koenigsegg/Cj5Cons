@@ -128132,8 +128132,8 @@
 🩩	napo
 🩪	sqsf
 🩫	jwj
-🩬	fpru
-🩬	fpsu
+🩬	mrpru
+🩬	mrpsu
 🩭	yooj
 🩠	whrb
 🩡	wog
@@ -128147,5 +128147,5 @@
 🩩	wnao
 🩪	wsqf
 🩫	wjwj
-🩬	wfpu
+🩬	wmru
 🩭	wyoj
