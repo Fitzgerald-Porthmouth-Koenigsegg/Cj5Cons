@@ -19498,7 +19498,7 @@
 𤋟	foae
 㶧	fob
 𤌍	fobg
-𪾻	fobu
+𪾻	fgbu
 𧶦	fobuc
 烌	fod
 雀	fog
@@ -60238,6 +60238,7 @@
 𡗌	nnyvg
 㚊	nnyvo
 𠄏	nnz
+𠄏	ilv
 𫸪	nnz
 久	no
 欠	no
