@@ -30355,6 +30355,7 @@
 𤜎	hqmyp
 𢩥	hqn
 𣅲	hqna
+𣅲	hna
 𬌨	hqnbf
 觕	hqnbg
 𤚙	hqnbk
@@ -30653,6 +30654,9 @@
 舑	hrgb
 𱀘	hrgce
 𣅞	hrha
+𣅞	hbha
+𣅞	hbva
+𣅞	hna
 𬐊	hrha
 𪳦	hrhad
 鵠	hrhaf
