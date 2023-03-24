@@ -47271,7 +47271,7 @@
 䀌	lqmat
 𧚫	lqmb
 襀	lqmc
-𭁇	lqmc
+𭁇	lkmc
 𭁈	lqmc
 𧛔	lqmh
 𫌀	lqmo
@@ -101237,7 +101237,6 @@
 𭇑	xlpr
 𫔸	xlqln
 䀌	xlqma
-𭁇	xlqmc
 𮖹	xlrji
 㐄	xls
 𨸄	xlsav
@@ -112184,6 +112183,7 @@
 娈	ycv
 𥾻	ycvif
 𭁖	ycvne
+𭁖	ycnne
 𬡄	ycvv
 𬔫	ycwlc
 𬔫	ydwlc
