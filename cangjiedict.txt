@@ -47173,6 +47173,7 @@
 𮧤	lotje
 襥	loto
 𭖲	lou
+𭖲	oru
 𧛳	loue
 𧚀	lowy
 𠗀	loy
@@ -54958,6 +54959,7 @@
 𥧪	mtjcm
 豉	mtje
 𬻟	mtji
+𬻟	mtjii
 𰶞	mtjid
 𫎄	mtjmn
 𰶜	mtjmu
@@ -94156,7 +94158,7 @@
 𦊜	wlhd
 𦊲	wlher
 𰣆	wlher
-𭻡	wlhg
+𭻡	wlmg
 𠒛	wlhgu
 𦋰	wlhhc
 𬙥	wlhhi
