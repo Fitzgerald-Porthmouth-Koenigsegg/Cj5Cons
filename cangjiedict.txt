@@ -33469,6 +33469,7 @@
 𨝤	icnl
 𫑫	icnl
 𪲭	icnlu
+𪲭	idnlu
 廞	icno
 𣤤	icno
 𦁓	icof
