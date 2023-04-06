@@ -32311,6 +32311,7 @@
 簚	hwlb
 簤	hwlc
 𠃅	hwlc
+𠃅	mwlc
 𥷾	hwlf
 籮	hwlg
 𬖈	hwlg
