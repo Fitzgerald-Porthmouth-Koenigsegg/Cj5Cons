@@ -80944,6 +80944,7 @@
 鹊	tapym
 𦰌	taqm
 𦰩	taqo
+𦰩	tlqo
 𬞜	tarf
 𢤘	tarp
 𮒮	tasc
