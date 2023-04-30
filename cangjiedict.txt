@@ -41634,7 +41634,7 @@
 𤢒	khixf
 𤡊	khixp
 𭸲	khjad
-𬍍	khjaj
+𬍍	khjab
 𬍆	khjak
 𪻊	khjav
 𬍎	khjav
@@ -79701,7 +79701,7 @@
 卧	sly
 𢼧	slye
 𫾸	slye
-𬛩	slyjj
+𬛩	slyjb
 𫑏	slymo
 䛗	slymr
 𧧃	slymr
