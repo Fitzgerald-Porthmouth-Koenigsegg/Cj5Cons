@@ -126974,7 +126974,7 @@
 ⽱	ib
 ⽵	olon
 ⽵	olol
-⽻	ss
+⽻	shshh
 ⽼	qp
 ⾅	hys
 ⾆	hjr
@@ -127568,7 +127568,7 @@
 神	iflwl
 祥	iftq
 福	ifmrw
-羽	ss
+羽	shshh
 諸	yrqia
 諸	yrqa
 都	qianl
