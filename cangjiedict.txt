@@ -12979,6 +12979,7 @@
 𣖨	dtyp
 㭶	dtys
 𣠅	dtyt
+𣠅	qtit
 𣗄	dtyu
 𣒣	dtyv
 札	du
