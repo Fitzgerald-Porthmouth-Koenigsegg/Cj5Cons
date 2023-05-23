@@ -118660,6 +118660,7 @@
 𧻓	zcgoy
 埴	zcgpb
 嗀	zcgrh
+嗀	grhne
 切	zcgsh
 堍	zcgsh
 塀	zcgsy
@@ -118994,6 +118995,7 @@
 辞	zcmry
 𩒖	zcmtm
 兀	zcmu
+兀	mu
 頋	zcmum
 䪲	zcmum
 頋	zcmum
