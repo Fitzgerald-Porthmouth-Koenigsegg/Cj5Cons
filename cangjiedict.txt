@@ -6516,6 +6516,7 @@
 𥉲	bustv
 𥇵	busug
 𥇤	busuq
+𥇤	buslw
 𥇣	busuu
 𥍖	buswu
 𥃲	but
