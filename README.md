@@ -27,4 +27,6 @@
 - [x] 卦象
 - [x] 箭头
 
-另外，您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
+须知：
+1. 您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
+2. 本码表所参考的字形基于万国码中陆标汉字的字形以及[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)中的字形。
