@@ -1,7 +1,7 @@
 # 仓颉五代码表究极整合包
 可能是目前最全，最正确的仓颉五代码表，其支持以下区块的字符：
 - [x] 中日韩統一表意文字基本区
-- [x] 中日韩統一表意文字扩展A, B, C, D, E, F, G, H区
+- [x] 中日韩統一表意文字扩展A, B, C, D, E, F, G, H, I区
 - [x] 中日韩兼容表意文字及其补充区
 - [x] 康熙部首，部首扩展
 - [x] 中日韩笔画
@@ -29,4 +29,5 @@
 
 须知：
 1. 您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
-2. 本码表所参考的字形基于万国码中陆标汉字的字形以及[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)中的字形。
+2. 本码表所参考的字形基于万国码中陆标汉字的字形以及[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)中的字形，因此你会在码表当中看见大量的容错。
+3. 本码表对于[小狼毫输入法](https://github.com/rime/weasel)、[中州韵输入法](https://github.com/loaden/rime)、同文输入法、鼠须管输入法的相性较高。
