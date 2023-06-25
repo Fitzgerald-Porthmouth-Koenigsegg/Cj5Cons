@@ -57547,6 +57547,7 @@
 鮠	nfnmu
 𩵌	nfnn
 𩵜	nfnn
+𩵜	nfnl
 𩸹	nfnnf
 𩵢	nfno
 䱬	nfnob
