@@ -7194,7 +7194,7 @@
 𨨜	cbdu
 錭	cbgr
 𨬞	cbhf
-𩳬	cbhi
+𩳬	cbhui
 䤟	cbhn
 䤾	cbhx
 鍕	cbjj
