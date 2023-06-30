@@ -84535,6 +84535,7 @@
 𦸘	tmui
 𦭃	tmus
 𦬀	tmv
+𦬀	ts
 𫶯	tmv
 䔚	tmvb
 𦲘	tmve
