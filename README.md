@@ -29,5 +29,6 @@
 
 须知：
 1. 您需安装额外的字库才能够正确显示全表内的字符，推荐使用[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)。
-2. 本码表所参考的字形基于万国码中（假想）陆标汉字的字形，（假想）台标汉字的字形，以及[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)中的字形，因此你会在码表当中看见大量的容错。
-3. 本码表对于[小狼毫输入法](https://github.com/rime/weasel)、[中州韵输入法](https://github.com/loaden/rime)、同文输入法、鼠须管输入法的相性较高。
+2. 整张表没有进行过排序，但不影响使用。
+3. 本码表所参考的字形基于万国码中（假想）陆标汉字的字形，（假想）台标汉字的字形，以及[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)中的字形，因此你会在码表当中看见大量的容错。
+4. 本码表对于[小狼毫输入法](https://github.com/rime/weasel)、[中州韵输入法](https://github.com/loaden/rime)、同文输入法、鼠须管输入法的相性较高。
