@@ -119483,6 +119483,11 @@
 ⿶	ziwu
 ⿺	ziwv
 ⿻	ziww
+⿼	ziws
+⿽	ziwlm
+⿾	ziwz
+⿿	ziwz
+㇯	ziwwm
 𝍲	znm
 𝍳	znml
 𝍴	znmy
@@ -124781,6 +124786,11 @@
 𫜹	sm
 
 # 摘自五代的仓颉2356
+⿼	ws
+⿽	wlm
+⿾	wz
+⿿	wz
+㇯	wwm
 ⽇	a
 ⽈	a
 ⿱	a
