@@ -128732,7 +128732,7 @@
 𮷾	optn
 𮷿	opmmf
 𮸀	opkvc
-	opkvd
+𮸀	opkvd
 𮸁	opphp
 𮸂	opbq
 𮸃	opine
