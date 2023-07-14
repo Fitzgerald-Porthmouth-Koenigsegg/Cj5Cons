@@ -36144,6 +36144,7 @@
 𪊓	ipyk
 𪊙	ipyk
 𪪐	ipyk
+𪪐	ypyk
 麐	ipykr
 𪊺	ipykr
 𪊳	ipylc
@@ -82359,6 +82360,7 @@
 𫅡	tgtgr
 𫈐	tgtj
 𫅘	tgtkr
+𫅘	grtr
 善	tgtr
 𫅡	tgttr
 𦎕	tgtv
