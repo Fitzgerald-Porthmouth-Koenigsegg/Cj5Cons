@@ -45438,6 +45438,7 @@
 蚛	lil
 螻	lilav
 𧊼	lilbi
+𧊼	lilby
 𫊬	lilbk
 𰳞	lilbo
 𮓻	lilbu
@@ -58518,6 +58519,7 @@
 𥓺	nkmr
 䜼	nkmrt
 𭚒	nkmui
+𭚒	nkmuy
 𭤇	nkmv
 𪪯	nkmvm
 𢌩	nkmwg
