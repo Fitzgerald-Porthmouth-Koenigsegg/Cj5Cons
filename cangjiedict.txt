@@ -3367,6 +3367,7 @@
 𪈴	behaf
 𪂖	behaf
 𩲛	behi
+𩲛	behui
 𦙉	behn
 𦞓	behv
 𦋌	behxu
