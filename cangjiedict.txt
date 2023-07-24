@@ -54866,7 +54866,7 @@
 𨜃	msnl
 𫟫	msnl
 𰻢	msnl
-𩰸	msnmm
+𩰸	mbsms
 雇	msog
 𨾢	msog
 𭮚	msoho
@@ -122780,6 +122780,7 @@
 𲆭	mwqki
 𲆳	mwrrr
 𲆬	mwsmm
+𲆬	mwsms
 𲆺	mwtcg
 𲁌	mwtub
 𲆽	mwtwb
