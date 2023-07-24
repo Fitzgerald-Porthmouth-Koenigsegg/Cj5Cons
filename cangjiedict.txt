@@ -20764,6 +20764,7 @@
 𪍠	gedon
 𪍱	gedon
 𪔬	gedt
+𪔬	gejtd
 漀	gee
 𣼘	gee
 䶁	geea
