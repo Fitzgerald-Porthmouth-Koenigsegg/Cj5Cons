@@ -78871,6 +78871,7 @@
 監	sibt
 覧	sibuu
 𨱪	sibyi
+𨱪	svby
 鍳	sic
 𡱥	sice
 𨱛	sici
@@ -78919,7 +78920,7 @@
 𮫆	sihhu
 𨱳	sihie
 𨱳	sihik
-𫙀	sihja
+𫙀	sihha
 𨲉	sihjm
 镺	sihk
 𨲭	sihkb
