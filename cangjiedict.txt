@@ -16105,6 +16105,8 @@
 𣾗	eqfs
 堻	eqg
 𰝙	eqhb
+𰝙	qleqb
+𰝙	hleqb
 潔	eqhf
 𣵱	eqhg
 𣸲	eqhk
