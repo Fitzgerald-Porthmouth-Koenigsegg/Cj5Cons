@@ -43066,6 +43066,7 @@
 𤷺	kome
 痊	komg
 𤶄	komg
+𤶄	kohg
 𭹎	komgi
 𤶊	komi
 㾉	koml
@@ -43894,6 +43895,7 @@
 癦	kwgg
 𤼎	kwgt
 𤷒	kwhj
+𤷒	kwlj
 𭑠	kwjc
 痼	kwjr
 𤶑	kwk
