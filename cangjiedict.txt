@@ -120220,6 +120220,7 @@
 𲁓	bubhu
 𲁓	bublu
 𲁓	bubmu
+𲁓	bubhz
 𲇖	buc
 𱲽	budci
 𱳋	buddo
