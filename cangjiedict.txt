@@ -25461,7 +25461,7 @@
 𥡍	hdtyv
 秈	hdu
 㟀	hdu
-𠃷	hdu
+𠃷	hdn
 𥝏	hdu
 𬼡	hdu
 𰨫	hduau
@@ -108349,7 +108349,6 @@
 𠱒	xxhdr
 𬓤	xxhds
 𢍏	xxhdt
-𠃷	xxhdu
 𫀪	xxhdw
 𮂿	xxhdy
 夊	xxhe
