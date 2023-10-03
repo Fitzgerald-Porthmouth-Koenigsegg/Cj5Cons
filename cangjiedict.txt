@@ -19787,6 +19787,7 @@
 𬊒	frmg
 𤉇	frmk
 𬗀	frmnc
+𬗀	fnyrc
 𭴒	frms
 𤉚	frno
 㶽	frob
@@ -42233,7 +42234,7 @@
 猥	khwmv
 𤟧	khwp
 𤞑	khwr
-𪻌	khwtf
+𪻌	khwte
 𤠺	khwtj
 𤡂	khwvf
 𤢹	khwww
