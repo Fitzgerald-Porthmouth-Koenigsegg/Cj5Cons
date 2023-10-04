@@ -111168,7 +111168,6 @@
 𪚥	xypyb
 𣀞	xypye
 𧙁	xypyh
-𬸾	xypyk
 讋	xypym
 𦟀	xyq
 𮟖	xyqmc
@@ -114821,7 +114820,7 @@
 𪚛	ypyj
 虔	ypyk
 𫊢	ypykl
-𬸾	ypykl
+𬸾	ipykl
 訾	ypymr
 讋	ypymr
 𧮩	ypymr
