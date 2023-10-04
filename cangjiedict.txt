@@ -6150,6 +6150,7 @@
 𢝝	bumfp
 𥉿	bumfu
 𥄮	bumg
+𥄮	buhg
 𪛟	bumg
 睚	bumgg
 𣃒	bumhl
