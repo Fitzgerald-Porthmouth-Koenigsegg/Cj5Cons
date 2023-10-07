@@ -23904,6 +23904,9 @@
 𭽗	hatq
 𩡚	hatqt
 𣋯	hatsu
+𣋯	hatyu
+𣋯	hatyv
+𣋯	hatsv
 皏	hatt
 𤽧	hatt
 𰤝	hattd
@@ -65405,7 +65408,7 @@
 𣢺	orno
 𠎈	ornsd
 𩸔	ornwf
-𠈏	oro
+𠈏	omro
 𦚷	orobo
 䧻	orog
 䧾	orog
