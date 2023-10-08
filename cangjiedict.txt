@@ -79780,6 +79780,7 @@
 灵	smf
 𠤯	smf
 𭵧	smf
+𭵧	syf
 𦒐	smfbk
 𦒚	smfbk
 𢑱	smfhk
@@ -80825,6 +80826,7 @@
 𠥶	sypu
 𢬙	syq
 𢱯	syq
+𢱯	smq
 𫵧	syqke
 𡱇	syr
 𪨓	syrb
