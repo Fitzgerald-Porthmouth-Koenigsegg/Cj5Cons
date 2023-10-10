@@ -92155,6 +92155,7 @@
 𤕺	vmok
 𭷁	vmok
 𤖚	vmokm
+𤖚	vmhem
 𰬀	vmoll
 𬘥	vmomg
 绘	vmomi
