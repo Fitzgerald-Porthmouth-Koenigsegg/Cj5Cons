@@ -119504,10 +119504,8 @@
 ⿽	ziwlm
 ⿾	ziwvn
 ⿾	ziwz
-⿿	ziwbv
 ⿿	ziwz
 ⿿	ziwsv
-㇯	ziwm
 ㇯	ziwwm
 ㇯	ziwa
 𝍲	znm
@@ -124815,10 +124813,8 @@
 ⿽	wlm
 ⿾	wvn
 ⿾	wz
-⿿	wbv
 ⿿	wz
 ⿿	wsv
-㇯	wm
 ㇯	wwm
 ㇯	wa
 ⽇	a
