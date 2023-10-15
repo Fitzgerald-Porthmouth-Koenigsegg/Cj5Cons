@@ -126952,7 +126952,6 @@
 ㊗	ifrhu
 ㊗	mfrhu
 ㊘	fbks
-㊘	ffbks
 ㊙	hdph
 ㊚	wks
 ㊛	v
@@ -126963,7 +126962,6 @@
 ㊠	mmz
 ㊡	od
 ㊢	bysm
-㊢	jxpf
 ㊣	mx
 ㊤	ym
 ㊥	l
@@ -126971,10 +126969,8 @@
 ㊧	km
 ㊨	kr
 ㊩	sok
-㊩	semcw
 ㊪	jmmf
 ㊫	fbnd
-㊫	xbnd
 ㊬	sibt
 ㊬	smbt
 ㊭	ox
