@@ -37703,7 +37703,7 @@
 𥦅	jcngl
 䆷	jcnhb
 窞	jcnhx
-𥦇	jcnhx
+𥦇	jcnla
 穸	jcni
 𥥈	jcni
 𥦁	jcnib
@@ -100205,7 +100205,6 @@
 穵	xjcn
 𦫭	xjcna
 𥩑	xjcnf
-𥦇	xjcnh
 𥥈	xjcni
 𰩇	xjcnl
 𥤯	xjcno
