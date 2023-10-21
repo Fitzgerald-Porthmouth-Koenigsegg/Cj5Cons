@@ -40745,6 +40745,7 @@
 𩕤	jwmbc
 𢛳	jwmp
 𣌽	jwmtc
+𣌽	jwlc
 畞	jwno
 恵	jwp
 𠦟	jwu
