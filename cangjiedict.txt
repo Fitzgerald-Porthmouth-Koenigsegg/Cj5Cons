@@ -32226,6 +32226,7 @@
 𪕠	hvsmf
 𰿍	hvsmv
 𣆼	hvst
+𣆼	hst
 𠒂	hvsu
 𠑼	hvsu
 𪖊	hvtcd
