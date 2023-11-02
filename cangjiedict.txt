@@ -777,6 +777,8 @@
 㫵	almy
 曊	alnc
 𣆜	alnm
+𣆜	asvl
+𣆜	avnl
 𠨠	alno
 𣣝	alno
 𪰶	alno
