@@ -12653,7 +12653,7 @@
 柜	dss
 𣐺	dss
 梮	dssr
-𫖔	dsthb
+𫖔	qsthb
 𣘗	dstr
 𣖕	dstt
 榐	dstv
