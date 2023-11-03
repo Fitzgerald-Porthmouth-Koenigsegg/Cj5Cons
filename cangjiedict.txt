@@ -80594,7 +80594,7 @@
 𭕨	suher
 𫵞	suhhh
 𣣁	suhlo
-𣪍	suhne
+𣪍	snhne
 𤚌	suhq
 𡲥	suhqm
 𣮈	suhqu
@@ -93799,7 +93799,7 @@
 𪑱	wfsmg
 𦑲	wfsmm
 𤓅	wfsmn
-𪑣	wfsmu
+𪑣	wfsmn
 𪑩	wfstc
 𪑰	wfstt
 𪒼	wftbf
