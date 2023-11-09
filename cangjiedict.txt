@@ -46772,7 +46772,7 @@
 裖	lmmv
 𬻳	lmn
 𰠗	lmnd
-𧰍	lmnie
+𧰍	lmnie​
 将	lmnii
 𭤏	lmnjk
 𨛆	lmnl
@@ -123898,6 +123898,7 @@
 𱑔	sjoj
 𱻻	sjomp
 𱻺	sjoms
+𱻺	sjois
 𱻼	sjttc
 𱻾	sjwtp
 𱻷	sjysm
@@ -124742,7 +124743,8 @@
 𲁣	yryv
 𲁳	yrywv
 𲁙	ysbhu
-𱷭	ysbi
+𱷭	ythb
+𱷭	ylbi
 𱡷	yscwa
 𱡱	ysfh
 𲅲	yshh
