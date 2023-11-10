@@ -27665,6 +27665,7 @@
 乔	hkll
 𥁢	hkllt
 𧉕	hklmi
+𧉕	mklmi
 䨿	hklmy
 刋	hkln
 𠜺	hkln
