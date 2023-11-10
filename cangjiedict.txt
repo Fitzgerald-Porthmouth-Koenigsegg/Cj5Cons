@@ -25723,6 +25723,7 @@
 䈬	heib
 簗	heid
 𥱋	heid
+𥱋	hekd
 䵈	heidd
 𪐎	heidd
 簿	heii
