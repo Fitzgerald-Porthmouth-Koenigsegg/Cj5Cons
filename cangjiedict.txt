@@ -51091,7 +51091,7 @@
 玘	mgsu
 𤣱	mgsu
 㻕	mgsuu
-𤩇	mgsvr
+𤩇	mgsvr​
 𤤃	mgsy
 𤧅	mgsyj
 弄	mgt
@@ -80162,6 +80162,7 @@
 𡲵	soon
 𦕦	sooo
 𦖏	sooo
+𦖏	soooo
 㥦	sop
 𢛶	sop
 𠤷	sopd
