@@ -92085,6 +92085,7 @@
 绠	vmmlk
 𬘔	vmmls
 𫄥	vmmmb
+𫄥	vmmbb
 纭	vmmmi
 𤕻	vmmmr
 𰫾	vmmmu
