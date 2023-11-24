@@ -29607,7 +29607,7 @@
 𬡀	hoorn
 𮕣	hoorn
 筰	hoos
-𠃀	hoos
+𠃀	ooos
 𢓓	hoos
 㣳	hootf
 䘖	hooun
@@ -94568,6 +94568,7 @@
 𡆸	wmys
 𡆠	wn
 𡆡	wn
+𡆡	wo
 𡇹	wnai
 𤲈	wnau
 囝	wnd
@@ -99286,7 +99287,6 @@
 彾	xhoom
 𢓅	xhooo
 𮕣	xhoor
-𠃀	xhoos
 𢔫	xhoou
 怣	xhop
 𮅅	xhopd
