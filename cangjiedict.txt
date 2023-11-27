@@ -128843,7 +128843,7 @@
 𮹋	nmbgr
 𮹌	nmabt
 𮹍	nmhup
-𮹎	nnmawe
+𮹎	nmawe
 𮹏	nmgbt
 𮹐	nmaaa
 𮹑	mbbmr
