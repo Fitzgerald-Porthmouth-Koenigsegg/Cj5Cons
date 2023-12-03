@@ -84351,6 +84351,8 @@
 𣫧	tmhne
 𩙣	tmhnu
 𩙣	tmhnv
+𩙣	tnsmu
+𩙣	tnsmv
 𦴉	tmho
 𦾂	tmhp
 𤯄	tmhvp
@@ -94106,6 +94108,7 @@
 𡈭	wkhk
 𤯠	wkhqm
 𡇰	wkiu
+𡇰	wycu
 𠡛	wkks
 𪽓	wkl
 𡇊	wklb
