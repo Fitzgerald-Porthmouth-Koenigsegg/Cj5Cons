@@ -39989,6 +39989,12 @@
 𰍡	jnyc
 䵂	jnycb
 𭤪	jnyhs
+𭤪	jvyhs
+𭤪	jmyhs
+𭤪	knyhs
+𭤪	kvyhs
+𭤪	kmyhs
+𭤪	pvyhs
 䴵	jnyjj
 卖	jnyk
 𭔧	jnyok
