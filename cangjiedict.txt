@@ -6929,6 +6929,7 @@
 𬋓	bxff
 𪅎	bxhaf
 𦥼	bxk
+𦥼	rxk
 𠞞	bxln
 𮨚	bxmbc
 𰙗	bxno
