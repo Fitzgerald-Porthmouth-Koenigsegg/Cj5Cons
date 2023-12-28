@@ -77787,6 +77787,7 @@
 𱄲	sfmmp
 䮏	sfmmr
 𩤐	sfmms
+𩤐	sfyps
 𩢄	sfmmu
 𩡯	sfmn
 䮋	sfmnn
