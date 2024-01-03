@@ -78048,7 +78048,7 @@
 𩤉	sftop
 𩥠	sftor
 𩦭	sftpd
-𩢣	sftps
+𩢣	sftjs​
 𩣆	sftq
 𩥙	sftqm
 𩥍	sftqq
