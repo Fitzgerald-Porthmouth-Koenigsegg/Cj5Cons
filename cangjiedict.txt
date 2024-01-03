@@ -22518,6 +22518,7 @@
 𮚼	gooro
 䞢	goos
 𡌱	goos
+𡌱	gmos
 𡐟	goos
 䘮	goov
 𮧌	goow
@@ -64221,6 +64222,7 @@
 氠	onlwl
 𬇐	onlwu
 𢎶	onm
+𢎶	nom
 𫢏	onm
 𠇛	onmb
 𩑔	onmbc
