@@ -91921,7 +91921,7 @@
 嫄	vmhf
 𡞼	vmhf
 𤕽	vmhfd
-𬙆	vmhfw
+𬙆	vmhdw
 纴	vmhg
 𡡳	vmhg
 𫄸	vmhgf
