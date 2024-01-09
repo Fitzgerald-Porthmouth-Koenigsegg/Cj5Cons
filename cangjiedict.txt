@@ -50508,7 +50508,8 @@
 𤦿	mgior
 𤦾	mgiov
 𪻙	mgipm
-𬍙	mgiq
+𬍙	mgiq​
+𬍙	mgij​
 珆	mgir
 𦥅	mgird
 琙	mgirm
