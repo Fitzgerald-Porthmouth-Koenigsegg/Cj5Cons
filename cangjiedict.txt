@@ -7590,7 +7590,7 @@
 𡗯	chk
 𨥜	chk
 鐈	chkb
-𬫆	chke
+𬫆	cmke
 𫸽	chklu
 𨧐	chkr
 𨪻	chkt
