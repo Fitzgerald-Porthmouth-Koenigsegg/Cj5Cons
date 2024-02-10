@@ -49044,7 +49044,7 @@
 𪄌	mchaf
 𪆲	mchaf
 𬷢	mchaf
-夒	mche
+夒	mche​
 𧹃	mchec
 𩖔	mchff
 𩑘	mchhh
@@ -61597,6 +61597,7 @@
 𫶨	odlll
 𧏨	odlmi
 𭃯	odln
+𭃯	hdln
 体	odm
 𠇾	odm
 𮨓	odmbc
