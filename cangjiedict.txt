@@ -46770,6 +46770,7 @@
 𮖂	lmkr
 䙣	lmky
 𫡃	lml
+𫡃	yl
 裲	lmlb
 𢂉	lmlbm
 劃	lmln
