@@ -119932,6 +119932,10 @@
 ㇞	zsvn
 ㇉	zsvs
 ㇣	zsxxx
+㇤	zsnv
+㇥	zsvn
+㇤	nv
+㇥	vn
 
 # 注音
 ㄅ	zhs
@@ -127107,8 +127111,6 @@
 ⿕	orbt
 ⺂	mn
 ⺃	lu
-⺄	su
-⺄	sv
 ⺍	ic
 ⺔	rm
 ⺛	mvu
