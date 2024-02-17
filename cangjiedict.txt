@@ -7591,6 +7591,7 @@
 𨥜	chk
 鐈	chkb
 𬫆	cmke
+𬫆	chke
 𫸽	chklu
 𨧐	chkr
 𨪻	chkt
@@ -7761,6 +7762,7 @@
 𨰋	cift
 𨦂	cifu
 𬫝	cigi
+𬫝	cig
 龯	cih
 鷷	cihaf
 䲲	cihaf
@@ -46801,6 +46803,7 @@
 𭣣	lmok
 𠗎	lmomg
 𫤬	lmoo
+𫤬	lmlo
 北	lmp
 𪜈	lmp
 𩿻	lmphf
@@ -79876,6 +79879,7 @@
 䎀	smiv
 𰭡	smive
 𭅖	smj
+𭅖	mlmg
 翄	smje
 𦒎	smjip
 𫵚	smjj
@@ -122169,6 +122173,7 @@
 𱱱	ktoo
 𱱝	ktyu
 𲉨	kuog
+𲉨	knog
 𱱬	kvdk
 𱱑	kvih
 𱱯	kvoi
@@ -129483,6 +129488,8 @@
 𘳕	vkc
 𘱛‍𘳑	nmicd
 𘱛‍𘳑	nmiod
+𘳿	wk
+
 #合并自Jackchows
 𪴯	acno
 毀	aghne
