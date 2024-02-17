@@ -31214,6 +31214,7 @@
 𠂘	hsui
 𥭜	hsup
 𥮟	hsuq
+𥮟	hmlug
 𥮝	hsuu
 𢨭	hsv
 䋀	hsvif
