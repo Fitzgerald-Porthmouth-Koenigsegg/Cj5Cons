@@ -29690,7 +29690,7 @@
 㣬	horsj
 𥲥	hort
 𮅫	hort
-𮅵	horu
+𮅵	horu​
 𨑔	horv
 𢕃	horvj
 𨄦	horyo
@@ -91441,6 +91441,7 @@
 㡮	viomn
 𩝫	viomv
 𩞟	viomv
+𩞟	vioiv
 𢇓	vion
 𫱝	viop
 𡟔	vior
