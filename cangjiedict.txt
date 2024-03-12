@@ -84952,6 +84952,7 @@
 苶	tof
 𤋌	tof
 𦬼	tof
+𦬼	tnf
 𧄫	toft
 茌	tog
 萑	tog
