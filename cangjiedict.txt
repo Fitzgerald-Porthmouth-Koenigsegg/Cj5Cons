@@ -32507,6 +32507,8 @@
 𥃔	hxhxt
 𥃖	hxhxt
 𥃜	hxhxt
+𥃖	hxbt
+𥃜	hxbt
 𦦁	hxhxu
 𥝈	hxib
 𥝋	hxib
