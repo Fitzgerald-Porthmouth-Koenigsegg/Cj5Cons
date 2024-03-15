@@ -62143,8 +62143,7 @@
 𠍮	ohog
 偫	ohoi
 𫣓	ohoi
-𩝶	ohoiv
-𩝶	ohomv
+𩝶	hhoiv​
 傱	ohoo
 𫤐	ohoo
 倃	ohor
@@ -67688,6 +67687,8 @@
 𢘽	plwp
 𭜖	plxh
 𫺙	plyc
+𫺙	plmc
+𫺙	pllc
 𢡅	plyd
 𢟵	plyg
 勺	pm
