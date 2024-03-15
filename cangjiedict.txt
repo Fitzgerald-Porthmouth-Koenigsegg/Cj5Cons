@@ -88189,6 +88189,7 @@
 𡸹	umlb
 𠭏	umle
 蚩	umli
+蚩	umlmi
 峺	umlk
 𫵼	umlk
 𡹄	umlm
