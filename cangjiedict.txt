@@ -19693,6 +19693,7 @@
 𤐭	fqmi
 𮍢	fqmig
 𣫶	fqmj
+𣫶	fqmy
 𫝤	fqmk
 䄅	fqmmf
 𧯦	fqmrt
@@ -41291,7 +41292,10 @@
 痔	kgdi
 奎	kgg
 㾏	kgg
-𣫵	kggj
+𣫵	kqmy
+𣫵	kmwj
+𣫵	kmwyi
+𣫵	kqmj
 㥣	kggp
 鵟	kghaf
 𤹥	kghe
