@@ -127154,13 +127154,6 @@
 ⻍	inno
 ⻕	hrrr
 ⻗	meb
-⻝	oav
-⻞	oas
-⻞	oap
-⻞	oai
-⻟	oai
-⻟	oas
-⻟	oap
 ⻠	nu
 ⻢	sm
 ⻤	hwhi
