@@ -2653,6 +2653,7 @@
 𩩸	bbtlj
 𱅱	bbtmc
 𩪫	bbtmd
+𩪫	bbttd
 髒	bbtmt
 𩪝	bbtng
 𩪭	bbtoe
