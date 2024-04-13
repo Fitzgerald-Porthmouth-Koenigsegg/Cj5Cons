@@ -62429,7 +62429,7 @@
 侂	oihp
 飥	oihp
 𩜡	oihpf
-䬫	oihpm
+䬫	oihpm​
 𩞊	oihpu
 侔	oihq
 餓	oihqi
@@ -87401,6 +87401,8 @@
 𡻿	ucu
 𡴪	ucucc
 𡴫	ucucc
+𡴪	umcc
+𡴫	uycc
 嶒	ucwa
 𡼳	ucwa
 𡵬	ud
