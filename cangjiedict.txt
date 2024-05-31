@@ -47698,6 +47698,7 @@
 䘶	lune
 邥	lunl
 𫸬	lunl
+𫸬	knnl
 𣢌	luno
 𧟃	luob
 䧵	luog
