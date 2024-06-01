@@ -114403,6 +114403,7 @@
 𧇎	ynomr
 𩚻	ynomv
 𩛈	ynomv
+𩛈	ynoiv
 𧆫	ynon
 𧇹	ynonk
 𨕗	ynoo
