@@ -1653,6 +1653,7 @@
 𣋌	aoms
 𣋓	aoms
 𣈮	aomv
+𣈮	aoiv
 𠕦	aomv
 𣈥	aomv
 𣈯	aomv
