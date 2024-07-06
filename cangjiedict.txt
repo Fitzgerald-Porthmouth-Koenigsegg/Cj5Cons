@@ -27684,6 +27684,7 @@
 𧶓	hkmbc
 𫂪	hkmbs
 𤤋	hkmgi
+𤤋	mkmgi
 𭷯	hkmhq
 𭯡	hkmhu
 𦤭	hkmnf
