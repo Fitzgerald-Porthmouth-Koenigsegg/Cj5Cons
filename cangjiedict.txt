@@ -24017,6 +24017,7 @@
 舋	hbbm
 笧	hbbm
 𦧁	hbboq
+𦧁	hbnoq
 䈑	hbbr
 𢄗	hbbr
 𥸠	hbbt
