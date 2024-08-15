@@ -34390,7 +34390,8 @@
 𥜁	ifsjk
 𥚑	ifsjr
 𬒽	ifskr
-𥙥	ifslm
+𥙥	ifsvm
+𥙥	ifspm
 𬓝	ifsmc
 祲	ifsme
 𥛀	ifsme
