@@ -29970,6 +29970,7 @@
 𥭂	hphn
 𪞳	hphn
 𣪘	hphne
+𣪘	aihne
 𣪜	hphne
 𠂩	hphp
 𬼒	hphqo
