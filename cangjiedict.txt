@@ -2720,6 +2720,7 @@
 𪪹	bbwt
 𩪖	bbwtj
 𩩙	bbwvj
+𩩙	bbwlj
 𩨓	bby
 𩪢	bbyao
 𮪲	bbyav
@@ -6884,7 +6885,7 @@
 𣎚	bwgf
 𦢓	bwgg
 䐃	bwhd
-𦜉	bwij
+𦜉	bwlj
 膕	bwim
 𣎫	bwji
 𫆣	bwjr
@@ -16971,6 +16972,7 @@
 𪸈	ewgi
 𣼫	ewgn
 𣴪	ewhj
+𣴪	ewlj
 𤅴	ewid
 𣸋	ewik
 漍	ewim
@@ -18427,6 +18429,7 @@
 𥼯	fdwgf
 𥽞	fdwgg
 𥺛	fdwhj
+𥺛	fdwlj
 𥻜	fdwik
 糰	fdwji
 𬖢	fdwjr
@@ -20215,6 +20218,8 @@
 𪇁	fwhaf
 𥽙	fwhik
 𡭼	fwhj
+𡭼	fhwj
+𡭼	fwlj
 㼕	fwhvo
 𤎍	fwim
 単	fwj
@@ -23317,6 +23322,7 @@
 𫮷	gwgr
 𡑰	gwgv
 𡌨	gwhj
+𡌨	gwlj
 𣫈	gwhne
 𪤑	gwim
 毐	gwj
@@ -54715,6 +54721,7 @@
 𥓄	mrwg
 碅	mrwhd
 𥓓	mrwhj
+𥓓	mrwlj
 𥕏	mrwim
 𥖏	mrwjc
 𮀪	mrwjo
@@ -55543,6 +55550,7 @@
 𨣫	mwhij
 覂	mwhio
 𠩶	mwhj
+𠩶	mwlj
 䣷	mwhjd
 𮠵	mwhjg
 䣶	mwhjr
@@ -66414,7 +66422,7 @@
 𬿓	owim
 毎	owj
 𠍿	owjc
-𠈷	owjl
+𠈷	owlj
 個	owjr
 𪜶	owk
 𮫮	owk
@@ -112968,7 +112976,6 @@
 𩕝	yhvvc
 𩠪	yhvvu
 邍	yhwe
-𨘡	yhwj
 𮞱	yhwj
 𨖼	yhwo
 𨙅	yhwo
