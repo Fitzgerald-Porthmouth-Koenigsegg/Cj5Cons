@@ -88743,7 +88743,7 @@
 㟃	usmr
 𪩒	usmt
 𪩖	usnd
-𫶤	usnd
+𫶤	usdd
 𨟎	usnl
 𡵸	uso
 𢾕	usok
@@ -106989,7 +106989,6 @@
 𭗑	xusmb
 𫶉	xusmg
 𡻪	xusmh
-𫶤	xusnd
 𡶆	xusr
 𠚆	xuss
 屺	xusu
