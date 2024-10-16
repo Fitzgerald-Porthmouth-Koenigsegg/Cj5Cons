@@ -87510,6 +87510,7 @@
 𡽊	ufbw
 嵴	ufcb
 𡰇	ufchn
+𡰇	ufchu
 𫂳	ufd
 𪩋	ufdh
 嶙	ufdq
