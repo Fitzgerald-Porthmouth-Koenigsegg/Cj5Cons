@@ -62293,8 +62293,8 @@
 俍	oiav
 䬶	oiav
 𮖛	oiav
-𬲖	oiavc
-𬲟	oiavc
+𬲖	oiac
+𬲟	oiac
 饅	oiawe
 䭘	oiayf
 𩟻	oiayv
