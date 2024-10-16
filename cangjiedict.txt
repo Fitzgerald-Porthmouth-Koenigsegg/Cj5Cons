@@ -32574,6 +32574,7 @@
 𠔜	hxmc
 𮍭	hxmc
 𤐫	hxmf
+𤐫	hmf
 𦦈	hxmjx
 𪡲	hxmk
 𠢈	hxmks
