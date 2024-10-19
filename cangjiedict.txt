@@ -52143,6 +52143,8 @@
 𣅯	mllm
 𤰱	mllm
 𭺪	mllm
+𭺪	mpl
+𭺪	msl
 䗝	mllmi
 𧊡	mllmi
 𧑧	mllmi
