@@ -27202,6 +27202,7 @@
 𨛀	hinl
 𨝀	hinl
 𨞷	hinl
+𨞷	minl
 𬪂	hinl
 𰻟	hinl
 𮔽	hinlw
