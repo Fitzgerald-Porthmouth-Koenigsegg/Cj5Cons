@@ -80007,6 +80007,7 @@
 𦐿	smnkg
 䣁	smnl
 𨝇	smnl
+𨝇	sgnl
 䎑	smnme
 𦑚	smnmk
 𪴫	smno
