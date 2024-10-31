@@ -43566,6 +43566,8 @@
 耷	ksj
 𤺈	ksja
 𤼕	ksja
+𤼕	ksji
+𤼕	ksjp
 𬐀	ksjg
 𤹚	ksji
 奁	ksk
