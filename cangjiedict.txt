@@ -52284,8 +52284,7 @@
 𮭙	mmhaf
 𧖬	mmhbt
 𭐠	mmhe
-𮐣	mmheo
-𮐣	mmhey
+𮐣	tmgy
 𬆆	mmhhl
 𣥵	mmhjd
 𣂪	mmhml
@@ -91029,6 +91028,7 @@
 綷	vfyoj
 𦁹	vfyok
 𮈺	vfypd
+𮈺	vfmgd
 𦁭	vfype
 𦂇	vfypk
 𦁲	vfypn
