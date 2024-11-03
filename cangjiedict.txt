@@ -118350,7 +118350,6 @@
 𬩣	yyx
 𧹂	yzbuc
 𬢆	yzbuu
-
 # 𩰲类大框
 鬻	nbfd
 䰞	nbjka
@@ -118403,7 +118402,6 @@
 𢡟	dpkk
 𢣬	dprlb
 𫻓	dpymr
-
 # Y键
 「	yyyaa
 」	yyyab
@@ -118558,7 +118556,6 @@
 ˊ	yyyym
 ˇ	yyyyn
 ˋ	yyyyo
-
 # Z鍵
 暈	zcabj
 冒	zcabu
@@ -119986,7 +119983,6 @@
 ㇥	zsvn
 ㇤	nv
 ㇥	vn
-
 # 注音
 ㄅ	zhs
 ㄅ	zvs
@@ -120089,7 +120085,6 @@
 ˋ	zzi
 ˋ	zzo
 々	zni
-
 # 扩展H
 𱗷	aaag
 𱢕	aabu
@@ -122530,7 +122525,6 @@
 𱵇	mfism
 𱵇	ifism
 𱵥	mflit
-𱵥	iflit
 𱍡	mflsb
 𱵐	mflwf
 𱵐	iflwf
@@ -122607,7 +122601,6 @@
 𱯩	mgmbw
 𱰀	mgmfk
 𱯊	mgmgb
-𱯨	mgmjk
 𱯨	mgmjk
 𱮷	mgmmf
 𲁋	mgmmu
@@ -124914,7 +124907,6 @@
 𲆊	yytg
 𲀭	yyvv
 𫜹	sm
-
 # 摘自五代的仓颉2356
 ⿼	ws
 ⿽	wlm
@@ -126944,7 +126936,6 @@
 ˋ	zzyo
 ˉ	zzyp
 ˙	zzyq
-
 # 摘自六代的仓颉2356
 、	i
 〡	l
@@ -127106,7 +127097,6 @@
 🈵	etub
 🈵	etlb
 🈵	etmb
-˙	zzyq
 ⼅	li
 ⼉	hu
 ⼞	bu
@@ -128186,7 +128176,6 @@
 ㆽ	mk
 ㆾ	cm
 ㆿ	hi
-
 # 麻将牌
 🀀	dw
 🀁	jbtj
@@ -128246,7 +128235,6 @@
 🀔	wlll
 🀕	wlll
 🀖	wlll
-🀖	wlll
 🀗	wlll
 🀘	wlll
 🀙	wr
@@ -128276,7 +128264,6 @@
 🀨	whdf
 🀩	whey
 🀪	wmar
-
 #象棋
 🩠	hrlb
 🩡	og
@@ -128308,7 +128295,6 @@
 🩫	wjwj
 🩬	wmru
 🩭	wyoj
-
 #拡张I
 𮯰	mt
 𮯱	byi
@@ -128933,7 +128919,6 @@
 𮹛	eafm
 𮹜	tfpym
 𮹝	ipipp
-
 #契丹小字
 𘬀	ii
 𘬁	m
@@ -128985,7 +128970,6 @@
 𘬤	ihp
 𘬤	mip
 𘬤	hip
-𘬥	hp
 𘬥	hp
 𘬦	hjp
 𘬦	mjp
@@ -129465,7 +129449,6 @@
 𘲠	sm
 𘲡	sh
 𘲢	sk
-𘲢	sk
 𘲣	sjn
 𘲤	ks
 𘲥	kso
@@ -129526,7 +129509,6 @@
 𘱛‍𘳑	nmicd
 𘱛‍𘳑	nmiod
 𘳿	wk
-
 #合并自Jackchows
 𪴯	acno
 毀	aghne
@@ -129675,7 +129657,6 @@
 𪹹	flsm
 𮳷	fmbm
 𪹓	fmca
-炮	fpsu
 𮳩	fqke
 𱫂	fsf
 𪸐	fshh
@@ -129726,7 +129707,6 @@
 𱶊	hdyiv
 𱶎	hdypn
 𱸭	hehu
-𥱋	heid
 𱘣	heoml
 𱑻	herr
 𱷺	hfq
@@ -129759,7 +129739,6 @@
 𪯉	hmye
 𫂝	hnbn
 𱸨	hnii
-𠆢	ho
 𫋱	hobvn
 𱬺	hoijb
 𪫏	holok
@@ -129951,7 +129930,6 @@
 𱵌	mfimk
 𱵕	mfiua
 𮵞	mfjmg
-𱵏	mflwv
 𱵡	mfmue
 𱵴	mfmwt
 𱵚	mfnau
@@ -130029,7 +130007,6 @@
 𪫊	mthhq
 𱝖	mtthm
 𪬂	mup
-𨢨	mwhwp
 𲁉	mwmg
 𲆧	mwno
 𱿑	mwypn
@@ -130051,7 +130028,6 @@
 𫕊	nlbve
 𫕃	nlnnd
 𫕕	nltmb
-𮹎	nmawe
 𲍆	nmps
 𱎆	nnbg
 𪫅	nnwf
@@ -130258,7 +130234,6 @@
 𱜣	tlcb
 𮰶	tmk
 𱿅	tmoo
-荊	tmtn
 𱾴	tnmg
 𫈬	tobv
 𱽡	tocb
@@ -130301,7 +130276,6 @@
 𫅥	uusim
 𱡮	vchml
 𱺂	vfasu
-𱹴	vfdt
 𫃯	vflb
 𫃽	vfmbs
 𫄑	vfosv
@@ -131911,7 +131885,6 @@
 𪯜	ydok
 𱒷	ygrp
 𪱯	ygytv
-産	yhhqm
 𨘳	yhoh
 𪺮	yibq
 𱎘	yitm
@@ -131922,7 +131895,6 @@
 𱝀	yjyjc
 𱡤	ykjbv
 𲊦	yklsm
-𭐻	ykmmi
 𭗟	ykyck
 𧱏	ylmso
 䊨	ynfd
@@ -131960,6 +131932,5 @@
 𣫺	yyyib
 𫧶	yyytu
 ⿾	ziwvm
-
 # 16.0 & 17.0
 𫜺	uw
