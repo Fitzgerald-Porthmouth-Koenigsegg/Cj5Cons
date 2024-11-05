@@ -58420,6 +58420,7 @@
 𪚪	ninxu
 𬻑	ninym
 𠄔	ninz
+𠄔	ilvv
 𢏟	niob
 𮌉	niobo
 𨿮	niog
@@ -78395,6 +78396,7 @@
 𮫒	shfbw
 𩮦	shfcb
 𨤏	shfd
+𨤏	mhfd
 𩭄	shfd
 𫙂	shfdv
 𩯰	shfgi
