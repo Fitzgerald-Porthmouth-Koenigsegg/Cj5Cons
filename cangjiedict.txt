@@ -1872,6 +1872,8 @@
 𪱋	atgr
 曦	atgs
 𣌀	atgs
+曦	atgi
+𣌀	atgi
 𣉼	atgt
 𣋞	atgt
 𣌕	athf
@@ -5409,6 +5411,7 @@
 膳	btgr
 𦢃	btgr
 𣎮	btgs
+𣎮	btgi
 𬁿	btgu
 𪾖	bthaf
 𫚷	bthaf
@@ -6551,6 +6554,7 @@
 𥈢	butgk
 𥊳	butgr
 䂀	butgs
+䂀	butgi
 𭿫	butgt
 𥇉	butgu
 𥋾	buthg
@@ -12773,8 +12777,10 @@
 橏	dtgr
 𣜆	dtgr
 㰕	dtgs
+㰕	dtgi
 𣡒	dtgs
 𭬮	dtgs
+𭬮	dtgi
 㯼	dtgt
 𣙥	dtgt
 欟	dtgu
@@ -19945,6 +19951,7 @@
 㷣	ftgq
 㷽	ftgr
 爔	ftgs
+爔	ftgi
 𤐩	ftgt
 𭵥	fthb
 𤓂	fthf
@@ -23069,6 +23076,7 @@
 㙚	gtgq
 墡	gtgr
 㙿	gtgs
+㙿	gtgi
 壒	gtgt
 𭏦	gtgt
 𫮽	gtgw
@@ -23904,6 +23912,7 @@
 𮆭	hate
 𮆷	hatf
 𪾅	hatgs
+𪾅	hatgi
 𩡤	hatgt
 𩡚	hatgt
 𤾸	hatif
@@ -25427,6 +25436,7 @@
 𥠦	hdtgk
 𮃬	hdtgr
 𰩁	hdtgs
+𰩁	hdtgi
 𥡘	hdthb
 𥣑	hdthg
 𥟌	hdthn
@@ -30550,6 +30560,7 @@
 𤚇	hqtge
 犠	hqtgi
 犧	hqtgs
+犧	hqtgi
 𤚖	hqtgv
 犕	hqthb
 𤛻	hqtis
@@ -33181,6 +33192,8 @@
 艤	hytgi
 𫇢	hytgs
 𫇣	hytgs
+𫇢	hytgi
+𫇣	hytgi
 𦪋	hythg
 艖	hythm
 艏	hythu
@@ -39334,6 +39347,7 @@
 轙	jjtgi
 轛	jjtgi
 𨏢	jjtgs
+𨏢	jjtgi
 䡷	jjtgt
 䡭	jjthg
 𬧹	jjthm
@@ -46019,6 +46033,7 @@
 𧏮	litgp
 蟮	litgr
 𧔠	litgs
+𧔠	litgi
 𰳙	litgt
 蜣	litgu
 𧏞	lithm
@@ -51182,6 +51197,7 @@
 𤧞	mgtgk
 𤩕	mgtgr
 𪼯	mgtgs
+𪼯	mgtgi
 瓂	mgtgt
 琷	mgtgu
 𤨩	mgthg
@@ -66045,6 +66061,7 @@
 𠑏	otgr
 𠑧	otgs
 𭀋	otgs
+𭀋	otgi
 𠏌	otgu
 𠊡	otgu
 𠋄	otgv
@@ -76419,6 +76436,7 @@
 𠾺	rtgr
 𡅳	rtgs
 𭌟	rtgs
+𭌟	rtgi
 𡀽	rtgt
 唴	rtgu
 𠷩	rtgv
@@ -88822,6 +88840,7 @@
 𭖾	utgp
 𰎸	utgr
 𡾞	utgs
+𡾞	utgi
 𡻘	utgt
 𭗡	utgt
 𡻹	uthj
@@ -94900,6 +94919,7 @@
 𫭒	wtfb
 𭻳	wtgi
 𪽦	wtgs
+𪽦	wtgi
 𡈮	wtgt
 㽨	wthm
 𬎷	wthqm
