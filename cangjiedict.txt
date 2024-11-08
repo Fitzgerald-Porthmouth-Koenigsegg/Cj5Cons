@@ -51818,6 +51818,7 @@
 𧦸	mjbyr
 𠫉	mjcc
 𤣪	mjcm
+𤣪	mgc
 栞	mjd
 𫨃	mjd
 𤿊	mjdhe
@@ -82323,7 +82324,9 @@
 𱉅	tghaf
 𮊫	tghdp
 羲	tghds
+羲	tghsi
 𦏁	tghds
+𦏁	tghsi
 𮊢	tghe
 𦍶	tghen
 𦍑	tghi
