@@ -40995,6 +40995,7 @@
 郩	kbnl
 𨛼	kbnl
 𡙞	kbnm
+𡙞	krrm
 欷	kbno
 𣣲	kbno
 㬼	kboae
