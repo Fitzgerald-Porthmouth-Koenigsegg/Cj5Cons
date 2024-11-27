@@ -56701,7 +56701,7 @@
 𮠂	ncnl
 𮠉	ncnl
 𢦀	ncp
-𡙟	ncppk
+𡙟	nbcpk
 𧶯	nctc
 𢐞	ncwa
 弹	ncwj
@@ -95071,9 +95071,11 @@
 𤴐	wwwww
 𤴑	wwwww
 𰣟	wwwww
+𰣟	wwdww
 𣀜	wwye
 𰟌	wwyf
 𭻼	wwykn
+𭻼	wkwkn
 𡆥	wy
 𤰘	wy
 𰕽	wya
