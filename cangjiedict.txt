@@ -85340,6 +85340,7 @@
 葱	tpkp
 𦷐	tpkt
 𦭪	tpkv
+𦭪	tpuk
 𫈖	tpli
 𠝐	tpln
 芍	tpm
