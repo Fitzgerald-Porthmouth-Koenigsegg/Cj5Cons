@@ -88652,12 +88652,14 @@
 嶊	uqog
 𫵶	uqs
 𠟳	uqshj
+𠟳	uqsht
 㟼	uqsk
 㠂	uqsk
 㟛	uqtm
 𫵮	uquq
 𭗦	uqyd
 𢆟	uqyjj
+𢆟	uqtt
 𠙼	ur
 𡷡	urb
 𡻖	urbc
@@ -90262,6 +90264,7 @@
 絏	vflwp
 𦀔	vflws
 𦁰	vflwt
+𦁰	vfuqt
 𦇷	vflwu
 繡	vflx
 𫃺	vflxl
